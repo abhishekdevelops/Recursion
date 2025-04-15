@@ -1,6 +1,6 @@
 # 🌀 Decimal to Binary Converter (Recursive)
 
-A simple web-based application built with HTML, CSS, and JavaScript that converts decimal numbers into binary using **recursion**.
+A simple web-based application built with HTML, CSS, and JavaScript that converts decimal numbers into binary using **Recursion**.
 
 ## 💡 Features
 - Built using HTML, CSS, and JavaScript
