@@ -23,7 +23,7 @@ decimalToBinary(118); // Output: "1110110"
 ```
 
 ## 🔗 View Demo
-<a href="https://abhishekdevelops.github.io/Recursion" target="_blank">Live Demo</a>
+[Live Demo](https://abhishekdevelops.github.io/Recursion)
 
 
 ## 🏆 Part of FreeCodeCamp Project  
