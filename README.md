@@ -23,7 +23,8 @@ decimalToBinary(118); // Output: "1110110"
 ```
 
 ## 🔗 View Demo
-[Live Demo](https://abhishekdevelops.github.io/Recursion)
+<a href="https://abhishekdevelops.github.io/Recursion" target="_blank">Live Demo</a>
+
 
 ## 🏆 Part of FreeCodeCamp Project  
 This project is part of the **JavaScript Algorithms and Data Structures Certification** by [freeCodeCamp](https://www.freecodecamp.org/).
