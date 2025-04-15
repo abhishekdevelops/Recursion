@@ -26,4 +26,4 @@ decimalToBinary(118); // Output: "1110110"
 [Live Demo](https://abhishekdevelops.github.io/Recursion)
 
 ## 🏆 Part of FreeCodeCamp Project  
-This project is part of the **JavaScript Algorithms and Data Structures Certification** by [FreeCodeCamp](https://www.freecodecamp.org/).
+This project is part of the **JavaScript Algorithms and Data Structures Certification** by [freeCodeCamp](https://www.freecodecamp.org/).
